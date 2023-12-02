@@ -1,7 +1,7 @@
 
 ![Demo](https://hackgtstoragebucket.s3.amazonaws.com/TalentLLM_demo.mp4)
 
-[View Video](https://hackgtstoragebucket.s3.amazonaws.com/TalentLLM_demo.mp4)
+https://hackgtstoragebucket.s3.amazonaws.com/TalentLLM_demo.mp4
 
 # Project 2 Report: Advanced Candidate Evaluation System
 
